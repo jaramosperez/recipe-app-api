@@ -4,8 +4,8 @@ Recipe app api source code. TDD
 
 **Desarrollo Guiado por Pruebas.**
 
-- [*] Usando Travis-CI
+- [ ] Usando Travis-CI
 
-- [*] TDD Test Driven Development
+- [ ] TDD Test Driven Development
 
 - [ ] API para recetas
